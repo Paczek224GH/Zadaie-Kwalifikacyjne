@@ -56,15 +56,15 @@ Pliki wyjściowe:
 
 Po uruchomieniu skryptu, otrzymasz następujące pliki wyjściowe:
 
-artykul.html: Zawiera strukturę HTML artykułu.
+artykul.html: Zawierający strukturę HTML artykułu.
 
-szablon.html: Zawiera szablon HTML.
+szablon.html: Zawierający szablon HTML.
 
-podglad.html: Zawiera połączony podgląd HTML.
+podglad.html: Zawierający połączony podgląd HTML.
 
-styles.css: Zawiera style CSS dla podglądu.
+styles.css: Zawierający style CSS dla podglądu.
 
-script.js: Zawiera skrypt JavaScript do animacji nawigacji.
+script.js: Zawierający skrypt JavaScript do animacji nawigacji.
 -------------------------------------------------------------------------------------------------
 Dostosowanie
 Tekst artykułu:
@@ -82,9 +82,9 @@ Zmodyfikuj funkcję generate_css() w main.py aby dostosować style CSS.
 Skrypt JavaScript:
 
 Zmodyfikuj funkcję generate_js() w main.py aby dostosować animację nawigacji.
+
 -------------------------------------------------------------------------------------------------
 Licencja
 Projekt jest licencjonowany na warunkach licencji MIT. Zobacz plik LICENSE po szczegóły.
 
-Podziękowania
-Projekt korzysta z modelu GPT-3.5-turbo OpenAI do przetwarzania artykułów.
+
