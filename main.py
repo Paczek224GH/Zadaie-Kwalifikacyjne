@@ -1,7 +1,7 @@
 import openai
 
 # Klucz API OpenAI
-openai.api_key = '#Wpisz Swój kod do API OPENAI'
+openai.api_key = 'sk-proj-...your_API_key...'
 
 # Funkcja do odczytu pliku tekstowego
 def read_text_file(file_path):
